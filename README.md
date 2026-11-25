@@ -1,25 +1,33 @@
 # Loren Kairis
 
-Technology, strategic accounts, and commercial leadership. I started in software engineering, spent most of my career with strategic accounts across analytics and advanced technologies, and picked up an MS in nanotechnology and an MBA along the way. Based in Santa Fe, New Mexico.
+Strategic accounts and AI commercial strategy. I started as a software engineer and have spent most of my career growing strategic accounts in analytics, advanced technology, and semiconductor markets, most recently at EnPro. I hold an MBA from the University of Georgia, an MSc in nanotechnology from TU Kaiserslautern, and a BS in mechanical engineering from Montana State. I live in Santa Fe, New Mexico.
 
-The thread through all of it: how technology becomes useful, and how companies turn that usefulness into business.
+## Focus
 
-## What I'm doing now
+- **AI commercial strategy and implementation:** deciding which AI investments to make, turning pilots into deployed systems, and proving the business result.
+- **Platforms and adoption:** what it takes for a complex technology to win customers and scale.
+- **Machine learning:** hands-on since 2014, starting with neural networks in Wolfram.
 
-- Building software again, with AI and modern tooling. Most of that work sits in private repositories, so this account stays quiet.
-- Writing **[RevenueBrief](https://lorenkairis.substack.com)**, a newsletter on how technology companies build markets, win customers, and grow. Platforms, ecosystems, adoption, and what the filings say about all three.
-- Shorter working notes on **[Medium](https://medium.com/@lorenkairis)**.
+## On GitHub
 
-## Interests
+As a security practice, I keep most of my development work in private repositories. This profile holds public notes and selected projects.
 
-AI infrastructure, physical AI, quantum computing, and the practical question underneath each: what has to change before a customer sees value.
+- **[ai-commercial-notes](https://github.com/lorenkairis/ai-commercial-notes):** short weekly notes on AI commercial strategy and what company filings show about adoption.
+
+## Side project: CFP Bias
+
+[![CFP Bias](assets/cfpbias.png)](https://cfpbias.com)
+
+[CFP Bias](https://cfpbias.com) sets my college football top 14 next to the College Football Playoff committee's rankings each week. Fans can rank their own 14, share a card, and see the combined crowd picks. The retro arcade design keeps it fast to use on a phone.
+
+The source is in a private repository for the 2026 season and will move here once the season ends.
+
+## Writing and projects
+
+- [RevenueBrief](https://revenuebrief.com): a newsletter on how technology companies build markets, win customers, and grow
+- [kairis.org](https://kairis.org): personal notes, books, and projects
+- [Aumly](https://aumly.com): an app for planning a complete day
 
 ## Elsewhere
 
-**Writing and video**
-[RevenueBrief](https://lorenkairis.substack.com) · [Medium](https://medium.com/@lorenkairis) · [YouTube](https://www.youtube.com/@lorenkairis)
-
-**Profiles**
-[lorenkairis.com](https://lorenkairis.com) · [LinkedIn](https://linkedin.com/in/kairis) · [X](https://x.com/lorenkairis) · [Crunchbase](https://www.crunchbase.com/person/loren-kairis) · [about.me](https://about.me/kairis) · [Bold](https://bold.pro/my/lorenkairis) · [Taplink](https://taplink.cc/kairis) · [me.sh](https://me.sh/profile/kairis)
-
-*Platforms. Ecosystems. Adoption.*
+[lorenkairis.com](https://lorenkairis.com) · [LinkedIn](https://www.linkedin.com/in/kairis) · [Substack](https://lorenkairis.substack.com) · [Medium](https://medium.com/@lorenkairis) · [YouTube](https://www.youtube.com/@lorenkairis) · [X](https://x.com/lorenkairis) · [Crunchbase](https://www.crunchbase.com/person/loren-kairis)
